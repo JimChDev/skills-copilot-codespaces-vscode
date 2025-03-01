@@ -1,4 +1,4 @@
-function skillMember() {
+function skillsMember() {
     var skillMember = document.getElementById("skillMember");
     var skillMemberValue = skillMember.value;
     var skillMemberValue = parseInt(skillMemberValue);
